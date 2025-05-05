@@ -42,3 +42,13 @@ The CNN architecture used in this project includes:
 ```bash
 git clone https://github.com/yourusername/cnn-cifar10-classifier.git
 cd cnn-cifar10-classifier
+
+
+2. **Install Requirements**
+pip install -r requirements.txt
+
+3. **Run the Script**
+
+python cifar10_cnn.py
+
+
